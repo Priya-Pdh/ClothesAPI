@@ -1,61 +1,130 @@
 {
-    "FAQ": [
-    {
-        "id": 1,
-        "question": "How to get in contact with Shoppers?",
-        "answer": "To get in contact with us, you can reach us via email or on Facebook or Instagram."
-    },
-  
-    {
-        "id": 2,
-        "question": "I'm intersted in collaborating. Whom do I contact?",
-        "answer": "We love hearing this! Send your request to collaboration@acoskincare.com, and give us information about your channel/platform, your followers and why you are a good fit with ACO."
-    },
-    {
-        "id": 3,
-        "question": "Where do you ship?",
-        "answer": "Currently, we ship to all 50 United States and also US territories, including Puerto Rico, Guam, American Samoa, APO/FPO/DPO, etc. If you live outside of the US and would like to order ACO products, please visit ACO Nordic and find out if ACO is available in your country."
-    },
-    {
-        "id": 4,
-        "question": "What are you shipping option?",
-        "answer": "We offer three ways to get your ACO Skincare order quickly: Standard shipping to US states and territories is free. Most orders are delivered within 3-5 business days. For even faster service, two-day expedited shipping is available for $15. Orders placed after 12:00 pm ET will ship the following business day. Orders for P.O. Boxes, APO/FPO/DPO are not eligible for two-day service."
-    },
-    {
-        "id": 5,
-        "question": "I haven't received my order yet, what do i do?",
-        "answer": "Please check your mailbox, including your spam folder, for an email from hello@W&Qskincare.com. The email will have your order tracking information."
-   
-    },
-    {
-        "id": 6,
-        "question": "What is the return policy?",
-        "answer": "All ACO products carry a 180-day 100% Satisfaction Guarantee. If the product that you purchased isn’t a good fit for you, for any reason, please send us proof of purchase to hello@acoskincare.com. We will happily issue you a refund."
-    },
-    {
-        "id": 7,
-        "question": "Why should I create a customer account?",
-        "answer": "We encourage you to create a customer account. An account will allow you to keep a record of all your purchases, billing and order tracking information. You can also store multiple shipping addresses to expedite the check-out process."
-    },
-    {
-        "id": 8,
-        "question": "I think I have an allergic reaction. What do I do now?",
-        "answer": "Some individuals may be sensitive to one of our products or to a certain ingredient. If a reaction occurs, stop use and seek medical help right away. It is very important to let us know so we can explore this closer and determine if changes are needed. Please send our Consumer Affairs team an email at consumer.lpc@perrigo.com."
-    },
-    {
-        "id": 9,
-        "question": "Where are Shoppers's product made?",
-        "answer": "All of our products are made in Europe."
-  
-    },
-   
-    {
-        "id": 10,
-        "question": "Still have questions?",
-        "answer": "If you have additional questions, please contact us at hello@W&Qskincare.com"
-  
-    }
-  
-  ]
- }
- 
+    "Data" : [
+        {
+            "id": 1,
+            "image": "/images/1.M-img.webp",
+            "title": "Beige Tshirt",
+            "price": "100",
+            "group": "Male"
+        },
+        {
+            "id": 2,
+            "image": "/images/2.M-img.webp",
+            "title": "Marron Tshirt",
+            "price": "150",
+            "group": "Male"
+        },
+        {
+            "id": 3,
+            "image": "/images/3.M-img.webp",
+            "title": "Gray Pants",
+            "price": "300",
+            "group": "Male"
+        },
+        {
+            "id": 4,
+            "image": "/images/4.M-img.webp",
+            "title": "Black Tshirt",
+            "price": "200",
+            "group": "Male"
+        },
+        {
+            "id": 5,
+            "image": "/images/5.M-img.webp",
+            "title": "Gray Tshirt",
+            "price": "500",
+            "group": "Male"
+        },
+        {
+            "id": 6,
+            "image": "/images/6.M-img.jpeg",
+            "title": "Gray Sweater",
+            "price": "800",
+            "group": "Male"
+        },
+        {
+            "id": 7,
+            "image": "/images/7.W-img.webp",
+            "title": "Beige Pants",
+            "price": "700",
+            "group": "Women"
+        },
+        {
+            "id": 8,
+            "image": "/images/8.W-img.webp",
+            "title": "White Blazer",
+            "price": "1000",
+            "group": "Women"
+        },
+        {
+            "id": 9,
+            "image": "/images/9.W-img.jpeg",
+            "title": "Green Jacket",
+            "price": "600",
+            "group": "Women"
+        },
+        {
+            "id": 10,
+            "image": "/images/10.W-img.jpeg",
+            "title": "Black Jacket",
+            "price": "1000",
+            "group": "Women"
+        },
+        {
+            "id": 11,
+            "image": "/images/11.W-img.jpeg",
+            "title": "Formal Pants",
+            "price": "500",
+            "group": "Women"
+        },
+        {
+            "id": 12,
+            "image": "/images/12.W-img.jpeg",
+            "title": "Purple Sweater",
+            "price": "300",
+            "group": "Women"
+        },
+        {
+            "id": 13,
+            "image": "/images/13.U-img.webp",
+            "title": "White Hoodie",
+            "price": "850",
+            "group": "Unisex"
+        },
+        {
+            "id": 14,
+            "image": "/images/14.U-img.webp",
+            "title": "Blue Hoodie",
+            "price": "550",
+            "group": "Unisex"
+        },
+        {
+            "id": 15,
+            "image": "/images/15.U-img.webp",
+            "title": "Gray Hoodie",
+            "price": "400",
+            "group": "Unisex"
+        },
+        {
+            "id": 16,
+            "image": "/images/16.U-img.webp",
+            "title": "Black Tshirt",
+            "price": "200",
+            "group": "Unisex"
+        },
+        {
+            "id": 17,
+            "image": "/images/17.U-img.webp",
+            "title": "Gray Jacket",
+            "price": "600",
+            "group": "Unisex"
+        },
+        {
+            "id": 18,
+            "image": "/images/18.U-img.jpeg",
+            "title": "Gray Sweater",
+            "price": "500",
+            "group": "Unisex"
+        }
+    ]
+}
