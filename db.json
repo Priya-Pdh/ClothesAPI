@@ -1,100 +1,61 @@
 {
-    "users": [
-      {
+    "FAQ": [
+    {
         "id": 1,
-        "name": "Britney Spears",
-        "age": 40,
-        "location": "Hollywood, CA",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sCwSna.png"
-      },
-      {
+        "question": "How to get in contact with Shoppers?",
+        "answer": "To get in contact with us, you can reach us via email or on Facebook or Instagram."
+    },
+  
+    {
         "id": 2,
-        "name": "Madonna Ciccone",
-        "age": 64,
-        "location": "New York City, NY",
-        "diet": "Vegan",
-        "img": "https://iili.io/sCwkwF.jpg"
-      },
-      {
+        "question": "I'm intersted in collaborating. Whom do I contact?",
+        "answer": "We love hearing this! Send your request to collaboration@acoskincare.com, and give us information about your channel/platform, your followers and why you are a good fit with ACO."
+    },
+    {
         "id": 3,
-        "name": "Beyoncé Knowles",
-        "age": 41,
-        "location": "New York City, NY",
-        "diet": "Vegan",
-        "img": "https://iili.io/sCweu1.jpg"
-      },
-      {
+        "question": "Where do you ship?",
+        "answer": "Currently, we ship to all 50 United States and also US territories, including Puerto Rico, Guam, American Samoa, APO/FPO/DPO, etc. If you live outside of the US and would like to order ACO products, please visit ACO Nordic and find out if ACO is available in your country."
+    },
+    {
         "id": 4,
-        "name": "Rihanna Fenty",
-        "age": 34,
-        "location": "Los Angeles, CA",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sCwvZg.png"
-      },
-      {
+        "question": "What are you shipping option?",
+        "answer": "We offer three ways to get your ACO Skincare order quickly: Standard shipping to US states and territories is free. Most orders are delivered within 3-5 business days. For even faster service, two-day expedited shipping is available for $15. Orders placed after 12:00 pm ET will ship the following business day. Orders for P.O. Boxes, APO/FPO/DPO are not eligible for two-day service."
+    },
+    {
         "id": 5,
-        "name": "Dua Lipa",
-        "age": 27,
-        "location": "London, UK",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sAKjBs.webp"
-      },
-      {
+        "question": "I haven't received my order yet, what do i do?",
+        "answer": "Please check your mailbox, including your spam folder, for an email from hello@W&Qskincare.com. The email will have your order tracking information."
+   
+    },
+    {
         "id": 6,
-        "name": "Natalia Lafourcade",
-        "age": 38,
-        "location": "Mexico City, MX",
-        "diet": "Vegan",
-        "img": "https://iili.io/sAKpZF.jpg"
-      },
-      {
+        "question": "What is the return policy?",
+        "answer": "All ACO products carry a 180-day 100% Satisfaction Guarantee. If the product that you purchased isn’t a good fit for you, for any reason, please send us proof of purchase to hello@acoskincare.com. We will happily issue you a refund."
+    },
+    {
         "id": 7,
-        "name": "Hillary Duff",
-        "age": 34,
-        "location": "Los Angeles, CA",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sAKAI1.webp"
-      },
-      {
+        "question": "Why should I create a customer account?",
+        "answer": "We encourage you to create a customer account. An account will allow you to keep a record of all your purchases, billing and order tracking information. You can also store multiple shipping addresses to expedite the check-out process."
+    },
+    {
         "id": 8,
-        "name": "Belinda Peregrín",
-        "age": 33,
-        "location": "Madrid, Spain",
-        "diet": "Vegan",
-        "img": "https://iili.io/sAK5Lg.webp"
-      },
-      {
+        "question": "I think I have an allergic reaction. What do I do now?",
+        "answer": "Some individuals may be sensitive to one of our products or to a certain ingredient. If a reaction occurs, stop use and seek medical help right away. It is very important to let us know so we can explore this closer and determine if changes are needed. Please send our Consumer Affairs team an email at consumer.lpc@perrigo.com."
+    },
+    {
         "id": 9,
-        "name": "Ariana Grande",
-        "age": 29,
-        "location": "New York City, NY",
-        "diet": "Vegetarian",
-        "img": "https://iili.io/sAKTmP.webp"
-      },
-      {
+        "question": "Where are Shoppers's product made?",
+        "answer": "All of our products are made in Europe."
+  
+    },
+   
+    {
         "id": 10,
-        "name": "Lana del Rey",
-        "age": 37,
-        "location": "Los Angeles, CA",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sAKRhF.png"
-      },
-      {
-        "id": 11,
-        "name": "Angelina Jolie",
-        "age": 47,
-        "location": "New York City, NY",
-        "diet": "Vegetarian",
-        "img": "https://iili.io/sAKYBa.png"
-      },
-      {
-        "id": 12,
-        "name": "Avril Lavigne",
-        "age": 37,
-        "location": "Toronto, CAN",
-        "diet": "Omnivore",
-        "img": "https://iili.io/sAKcrv.jpg"
-      }
-    ]
-  }
+        "question": "Still have questions?",
+        "answer": "If you have additional questions, please contact us at hello@W&Qskincare.com"
+  
+    }
+  
+ ]
+ }
+ 
