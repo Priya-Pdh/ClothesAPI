@@ -1,0 +1,130 @@
+{
+    "Data" : [
+        {
+            "id": 1,
+            "image": "/images/1.M-img.webp",
+            "title": "Beige Tshirt",
+            "price": "100",
+            "group": "Male"
+        },
+        {
+            "id": 2,
+            "image": "/images/2.M-img.webp",
+            "title": "Marron Tshirt",
+            "price": "150",
+            "group": "Male"
+        },
+        {
+            "id": 3,
+            "image": "/images/3.M-img.webp",
+            "title": "Gray Pants",
+            "price": "300",
+            "group": "Male"
+        },
+        {
+            "id": 4,
+            "image": "/images/4.M-img.webp",
+            "title": "Black Tshirt",
+            "price": "200",
+            "group": "Male"
+        },
+        {
+            "id": 5,
+            "image": "/images/5.M-img.webp",
+            "title": "Gray Tshirt",
+            "price": "500",
+            "group": "Male"
+        },
+        {
+            "id": 6,
+            "image": "/images/6.M-img.jpeg",
+            "title": "Gray Sweater",
+            "price": "800",
+            "group": "Male"
+        },
+        {
+            "id": 7,
+            "image": "/images/7.W-img.webp",
+            "title": "Beige Pants",
+            "price": "700",
+            "group": "Women"
+        },
+        {
+            "id": 8,
+            "image": "/images/8.W-img.webp",
+            "title": "White Blazer",
+            "price": "1000",
+            "group": "Women"
+        },
+        {
+            "id": 9,
+            "image": "/images/9.W-img.jpeg",
+            "title": "Green Jacket",
+            "price": "600",
+            "group": "Women"
+        },
+        {
+            "id": 10,
+            "image": "/images/10.W-img.jpeg",
+            "title": "Black Jacket",
+            "price": "1000",
+            "group": "Women"
+        },
+        {
+            "id": 11,
+            "image": "/images/11.W-img.jpeg",
+            "title": "Formal Pants",
+            "price": "500",
+            "group": "Women"
+        },
+        {
+            "id": 12,
+            "image": "/images/12.W-img.jpeg",
+            "title": "Purple Sweater",
+            "price": "300",
+            "group": "Women"
+        },
+        {
+            "id": 13,
+            "image": "/images/13.U-img.webp",
+            "title": "White Hoodie",
+            "price": "850",
+            "group": "Unisex"
+        },
+        {
+            "id": 14,
+            "image": "/images/14.U-img.webp",
+            "title": "Blue Hoodie",
+            "price": "550",
+            "group": "Unisex"
+        },
+        {
+            "id": 15,
+            "image": "/images/15.U-img.webp",
+            "title": "Gray Hoodie",
+            "price": "400",
+            "group": "Unisex"
+        },
+        {
+            "id": 16,
+            "image": "/images/16.U-img.webp",
+            "title": "Black Tshirt",
+            "price": "200",
+            "group": "Unisex"
+        },
+        {
+            "id": 17,
+            "image": "/images/17.U-img.webp",
+            "title": "Gray Jacket",
+            "price": "600",
+            "group": "Unisex"
+        },
+        {
+            "id": 18,
+            "image": "/images/18.U-img.jpeg",
+            "title": "Gray Sweater",
+            "price": "500",
+            "group": "Unisex"
+        }
+    ]
+}
