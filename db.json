@@ -5,126 +5,150 @@
             "image": "/images/1.M-img.webp",
             "title": "Beige Tshirt",
             "price": "100",
-            "group": "Male"
+            "group": "Men",
+            "description": "Cotton ovalneck t-shirt"
         },
         {
             "id": 2,
             "image": "/images/2.M-img.webp",
             "title": "Marron Tshirt",
             "price": "150",
-            "group": "Male"
+            "group": "Men",
+            "description": "Cotton t-shirt"
         },
         {
             "id": 3,
             "image": "/images/3.M-img.webp",
             "title": "Gray Pants",
             "price": "300",
-            "group": "Male"
+            "group": "Men",
+            "description": "Damask Pants"
         },
         {
             "id": 4,
             "image": "/images/4.M-img.webp",
             "title": "Black Tshirt",
             "price": "200",
-            "group": "Male"
+            "group": "Men",
+            "description": "Printed t-shirt"
         },
         {
             "id": 5,
             "image": "/images/5.M-img.webp",
             "title": "Gray Tshirt",
             "price": "500",
-            "group": "Male"
+            "group": "Men",
+            "description": "Cotton t-shirt"
         },
         {
             "id": 6,
             "image": "/images/6.M-img.jpeg",
             "title": "Gray Sweater",
             "price": "800",
-            "group": "Male"
+            "group": "Men",
+            "description": "Woolen Sweater"
         },
         {
             "id": 7,
             "image": "/images/7.W-img.webp",
             "title": "Beige Pants",
             "price": "700",
-            "group": "Women"
+            "group": "Women",
+            "description": "Cotton Pants"
         },
         {
             "id": 8,
             "image": "/images/8.W-img.webp",
             "title": "White Blazer",
             "price": "1000",
-            "group": "Women"
+            "group": "Women",
+            "description": "Lace Blazer"
         },
         {
             "id": 9,
             "image": "/images/9.W-img.jpeg",
             "title": "Green Jacket",
             "price": "600",
-            "group": "Women"
+            "group": "Women",
+            "description": "Polyester Jacket"
         },
         {
             "id": 10,
             "image": "/images/10.W-img.jpeg",
             "title": "Black Jacket",
             "price": "1000",
-            "group": "Women"
+            "group": "Women",
+            "description": "Bumper Jacket"
+
         },
         {
             "id": 11,
             "image": "/images/11.W-img.jpeg",
             "title": "Formal Pants",
             "price": "500",
-            "group": "Women"
+            "group": "Women",
+            "description": "Toile Pants"
         },
         {
             "id": 12,
             "image": "/images/12.W-img.jpeg",
             "title": "Purple Sweater",
             "price": "300",
-            "group": "Women"
+            "group": "Women",
+            "description": "Woolen Sweater"
         },
         {
             "id": 13,
             "image": "/images/13.U-img.webp",
             "title": "White Hoodie",
             "price": "850",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Cotton Hoodie"
         },
         {
             "id": 14,
             "image": "/images/14.U-img.webp",
             "title": "Blue Hoodie",
             "price": "550",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Jersey Hoodie"
+
         },
         {
             "id": 15,
             "image": "/images/15.U-img.webp",
             "title": "Gray Hoodie",
             "price": "400",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Cotton Hoodie"
         },
         {
             "id": 16,
             "image": "/images/16.U-img.webp",
             "title": "Black Tshirt",
             "price": "200",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Cotton t-shirt"
         },
         {
             "id": 17,
             "image": "/images/17.U-img.webp",
             "title": "Gray Jacket",
             "price": "600",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Suede Jacket"
         },
         {
             "id": 18,
             "image": "/images/18.U-img.jpeg",
             "title": "Gray Sweater",
             "price": "500",
-            "group": "Unisex"
+            "group": "Unisex",
+            "description": "Cotton Sweater"
         }
     ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2e1dc1c219493ac8650bbe462bbc37c4b7aa7d07
